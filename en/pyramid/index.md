@@ -35,14 +35,17 @@ At the end of word 1-1 in Super Mario Brothers, Mario has to climb half a pyrami
 * Note that there are zero spaces between left bottom corner of the pyramid and the left edge of your screen!
 
 ### Constraints
+
 Python has a lot of built-in tricks to make your life as a programmer easier. But, before you start
 using those tricks it is important to be fully comfortable with the basics. So for this
 exercise there are some constraints on what you're allowed to use.
 
 * You are only allowed to use the concepts that are discussed in this module.
 For an overview of those concepts have a look [here](/python/en/overview).
+
 * You are *not* allowed to use string multiplication (e.g., `"#"*5`) (This hasn't been discussed yet,
 but if you happen to know it, don't use it.)
+
 * You are *not* allowed to use the `import`-statement. (This hasn't been discussed yet either.)
 
 ## Tips
