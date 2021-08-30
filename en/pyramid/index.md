@@ -16,7 +16,7 @@ Implement a program that prints half a pyramid of a height that is provided by t
 
 ## The idea
 
-At the end of word 1-1 in Super Mario Brothers, Mario has to climb half a pyramid of blocks before he can jump to the flagpole at the end of the level. It looks like this:
+At the end of world 1-1 in Super Mario Brothers, Mario has to climb half a pyramid of blocks before he can jump to the flagpole at the end of the level. It looks like this:
 
 ![](mario.png)
 
@@ -28,16 +28,16 @@ At the end of word 1-1 in Super Mario Brothers, Mario has to climb half a pyrami
 
 * If the user provides an invalid height, prompt the user for a new height. Keep asking the user for a height until they provide a valid input.
 
-* You can however assume the user only provides whole numbers (integers). That means you don't have to take decimal numbers into consideration.
+* You can, however, assume the user only provides whole numbers (integers). That means you don't have to take decimal numbers into consideration.
 
-* After the height of the pyramid is validated, create through use of `print` and one or more loops the half pyramid.
+* After the height of the pyramid is validated, create the half pyramid through use of `print` and one or more loops.
 
-* Note that there are zero spaces between left bottom corner of the pyramid and the left edge of your screen!
+* Note that there are zero spaces between the left bottom corner of the pyramid and the left edge of your screen!
 
 ### Constraints
 
 Python has a lot of built-in tricks to make your life as a programmer easier. But, before you start
-using those tricks it is important to be fully comfortable with the basics. So for this
+using those tricks it is important to be fully comfortable with the basics. So, for this
 exercise there are some constraints on what you're allowed to use.
 
 * You are only allowed to use the concepts that are discussed in this module.
@@ -64,7 +64,7 @@ Having trouble processing everything mentioned above in one go? Here's the step 
 
 3. Be sure to create a variable `height` that contains the value that is provided by the user.
 
-4. Then try to have your program print a set (`height`) amount of hash blocks on a single row.
+4. Then, try to have your program print a set (`height`) amount of hash blocks on a single row.
 
 5. Print a square of hash blocks: multiple (`height`) hash blocks on a single row and multiple (`height`) of such rows.
 

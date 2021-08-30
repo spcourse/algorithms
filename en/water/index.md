@@ -1,6 +1,6 @@
 # Water
 
-Implement a program that reports a user's water usage back to them by calculating the how many bottles of drinking water are consumed by the number of minutes they shower.
+Implement a program that reports a user's water usage back to them by calculating how many bottles of drinking water are consumed by the number of minutes they shower.
 
 	How many minutes do you shower? 1
 	12
@@ -18,7 +18,7 @@ Implement a program that reports a user's water usage back to them by calculatin
 
 ## Hints
 
-* This program complies with the common cliches of a standard computer program: it contains an *input*, a *calculation*, and and *output*. Try to represent each of these components in your code!
+* This program complies with the common cliches of a standard computer program: it contains an *input*, a *calculation*, and an *output*. Try to represent each of these components in your code!
 
 * Utilize the `input()`-function and `int()` to process the input of a user from a string into an integer, to be able to perform calculations with the user-provided values.
 
@@ -26,7 +26,7 @@ Implement a program that reports a user's water usage back to them by calculatin
 
 ## Testing
 
-First, try and run the program yourself with a couple of expected values. You could, for example, provide the values 0, 10 and 137 for the amount of minutes under the shower. If everything seems to be in order, then it's time to make use of `checkpy`. Testing `water` works the same as it did for `hello`, only this time provide `checkpy` with `water` as argument instead. Like this:
+First, try and run the program yourself with a couple of expected values. You could, for example, provide the values 0, 10 and 137 for the amount of minutes under the shower. If everything seems to be in order, then it's time to make use of `checkpy`. Testing `water` works the same as it did for `hello`, only this time providing `checkpy` with `water` as argument instead. Like this:
 
 	checkpy water
 
