@@ -18,7 +18,7 @@ Implement a program that prints half a pyramid of a height that is provided by t
 
 At the end of world 1-1 in Super Mario Brothers, Mario has to climb half a pyramid of blocks before he can jump to the flagpole at the end of the level. It looks like this:
 
-![](mario.png)
+![](../../assets/mario.png)
 
 ## Specification
 
