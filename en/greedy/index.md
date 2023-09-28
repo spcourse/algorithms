@@ -27,7 +27,7 @@ How many coins are required exactly for any number of change owed? You tell us!
 
 * Assume that the user provides a whole number (integer), or a decimal number (float). The decimals in that case represent individual cents. So `3.21` means `3` dollar and `21` cents.
 
-* [In case the user does not succeed in providing a correct input](https://en.wikipedia.org/wiki/Murphy's_law), make sure they can retry.
+* If the user provides a negative number, make sure to ask for input again. Repeat until the user gives correct input.
 
 ### Constraints
 
