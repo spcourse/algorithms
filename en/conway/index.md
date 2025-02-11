@@ -1,6 +1,6 @@
 # Conway
 
-Implement Conway's Game of Life: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
+Create a file called `conway.py` that implements Conway's Game of Life: [Wikipedia](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life)
 
 You don't need anything fancy, you can just animate this in the terminal:
 
@@ -10,8 +10,8 @@ You don't need anything fancy, you can just animate this in the terminal:
 
 * Define a field a 2D-list of strings:
 
-	    o = " " # off
 	    X = "#" # on
+	    o = " " # off
 
 	    field = [
 	        [o, o, o, o, o, o, o, o, o, o],
@@ -37,4 +37,7 @@ You don't need anything fancy, you can just animate this in the terminal:
 * Use the time library to pauze between frames:
 
 	    import time
+
 	    time.sleep(0.1)
+
+* Each iteration, compute a new frame in a new variable called `new_field` using the rules of the game. Only once you're completely done applying the rules, you set `field = new_field`. This way you avoid loosing information that you might need for applying the game rules.
