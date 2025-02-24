@@ -34,10 +34,10 @@ You don't need anything fancy, you can just animate this in the terminal:
 	    ### clear screen
 	    print(chr(27) + "[2J")
 
-* Use the time library to pauze between frames:
+* Use the time library to pause between frames:
 
 	    import time
 
 	    time.sleep(0.1)
 
-* Each iteration, compute a new frame in a new variable called `new_field` using the rules of the game. Only once you're completely done applying the rules, you set `field = new_field`. This way you avoid loosing information that you might need for applying the game rules.
+* Each iteration, compute a new frame in a new variable called `new_field` using the rules of the game. Only once you're completely done applying the rules, you set `field = new_field`. This way you avoid losing information that you might need for applying the game rules.
