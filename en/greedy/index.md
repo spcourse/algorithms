@@ -7,7 +7,7 @@ Implement a program that calculates the minimum number of coins for a given sum 
 
 ## Background
 
-![](coinchange.png)
+![](coin_change.jpeg)
 
 In the distant past, when people actively paid for products using cash money, a coin holder - as can be seen above - was an invaluable asset to the inveterate bargain-hunter. The bothersome part was that for each coin a lever had to be pulled, a time consuming effort. Luckily we, computer scientists, are at the ready to minimize the number of coins that need to be handed over through the use of "greedy algorithms".
 
