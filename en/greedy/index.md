@@ -7,9 +7,7 @@ Implement a program that calculates the minimum number of coins for a given sum 
 
 ## Background
 
-![](coin_change.jpeg)
-
-In the distant past, when people actively paid for products using cash money, a coin holder - as can be seen above - was an invaluable asset to the inveterate bargain-hunter. The bothersome part was that for each coin a lever had to be pulled, a time consuming effort. Luckily we, computer scientists, are at the ready to minimize the number of coins that need to be handed over through the use of "greedy algorithms".
+In the distant past, when people actively paid for products using cash money, a coin holder was an invaluable asset to the inveterate bargain-hunter. The bothersome part was that for each coin a lever had to be pulled, a time consuming effort. Luckily we, computer scientists, are at the ready to minimize the number of coins that need to be handed over through the use of "greedy algorithms".
 
 A greedy algorithm is an algorithm that always makes the best local choice en route to the solution. It's like when you're cycling and at each intersection you choose the road that you think at that moment will lead you to your destination the quickest. These kinds of algorithms can lead, for some problems, to the optimal solution, but not by far for all of them.
 
