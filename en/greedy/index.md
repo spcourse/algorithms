@@ -37,7 +37,7 @@ For an overview of those concepts have a look [here](/python/en/overview).
 
 ## Hints
 
-* This program is structured somewhat like `water`: there is an explicit separation between *input*, *calculation* and *output*. The difference being that the calculation is no longer a single formula. You have to develop a complete *algorithm*!
+* This program is structured like many of the earlier programs: there is an explicit separation between *input*, *calculation* and *output*. The difference being that the calculation is no longer a single formula. You have to develop a complete *algorithm*!
 
 * It is useful to use a single variable throughout your entire program in which you gradually develop the final solution: the number of coins that need to be handed out.
 
