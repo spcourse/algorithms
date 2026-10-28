@@ -47,7 +47,7 @@ You repeat these interactions until one of the players has won 5 rounds, or a to
 
 In this case the opponent won :(
 
-With this program you have to type in yourself what the opponent plays. This might become tedious, so we made a file [`play.py`](play.py) that will automatically test your code against any of the 5 players. Put it in the same folder as your `roshambot.py` file and run it using:
+With this program you have to type in yourself what the opponent plays. This might become tedious, so we made a file `play.py` ([download here](play.py)) that will automatically test your code against any of the 5 players. Put it in the same folder as your `roshambot.py` file and run it using:
 
     python play.py [opponent]
 
