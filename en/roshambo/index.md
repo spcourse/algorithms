@@ -77,7 +77,7 @@ Keep in mind that this only works if your program meets the exact specifications
 
 * The game ends as soon as one of the players has 5 wins, or after 9 rounds. Then print who won.
 
-* Your program beats an opponent if it gets 5 wins first.
+* Your program beats an opponent if it gets **5 wins** first.
 
 * Beat each strategy using a single program (so you need to guess which opponent you are facing). The game could theoretically end in a draw. That is not enough, you need to win.
 
